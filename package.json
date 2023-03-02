@@ -13,5 +13,8 @@
   "author": "niu tech",
   "homepage": "https://github.com/niutech/x-frame-bypass",
   "repository": "github:niutech/x-frame-bypass",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "scripts":{
+    "build:azure": "echo done"
+  }
 }
